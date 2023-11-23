@@ -1,0 +1,87 @@
+2023-11-21 23:41:22.430 [http-nio-8080-exec-1] INFO  com.example.BankingApp.service.OperationsService - Deposit with 500.0€ was successful
+2023-11-21 23:41:41.492 [http-nio-8080-exec-2] WARN  com.example.BankingApp.service.OperationsService - Account not found
+2023-11-22 10:22:10.559 [http-nio-8080-exec-2] INFO  com.example.BankingApp.service.OperationsService - Deposit with 500.0€ was successful
+2023-11-22 10:22:21.386 [http-nio-8080-exec-3] WARN  com.example.BankingApp.service.OperationsService - Account not found
+2023-11-22 10:22:32.568 [http-nio-8080-exec-4] WARN  com.example.BankingApp.service.OperationsService - Account not found
+2023-11-22 10:22:36.983 [http-nio-8080-exec-5] WARN  com.example.BankingApp.service.OperationsService - Account not found
+2023-11-22 10:22:51.718 [http-nio-8080-exec-6] WARN  com.example.BankingApp.service.OperationsService - Account not found
+2023-11-22 10:22:54.981 [http-nio-8080-exec-7] WARN  com.example.BankingApp.service.OperationsService - Account not found
+2023-11-22 10:23:24.349 [http-nio-8080-exec-8] INFO  com.example.BankingApp.service.OperationsService - Deposit with 500.0€ was successful
+2023-11-22 10:23:27.189 [http-nio-8080-exec-9] INFO  com.example.BankingApp.service.OperationsService - Deposit with 500.0€ was successful
+2023-11-22 10:24:27.844 [http-nio-8080-exec-1] WARN  com.example.BankingApp.service.OperationsService - Account not found
+2023-11-22 10:25:50.358 [http-nio-8080-exec-2] WARN  com.example.BankingApp.service.OperationsService - Account not found
+2023-11-22 10:29:37.285 [http-nio-8080-exec-2] WARN  com.example.BankingApp.service.OperationsService - Account not found
+2023-11-22 10:29:40.390 [http-nio-8080-exec-3] WARN  com.example.BankingApp.service.OperationsService - Account not found
+2023-11-22 10:30:45.381 [http-nio-8080-exec-2] WARN  com.example.BankingApp.service.OperationsService - Account not found
+2023-11-22 10:31:54.683 [http-nio-8080-exec-2] WARN  com.example.BankingApp.service.OperationsService - Account not found
+2023-11-22 10:37:30.319 [http-nio-8080-exec-2] WARN  com.example.BankingApp.service.OperationsService - Tried to deposit negative amount
+2023-11-22 10:37:36.364 [http-nio-8080-exec-4] WARN  com.example.BankingApp.service.OperationsService - Account not found
+2023-11-22 10:37:45.048 [http-nio-8080-exec-5] WARN  com.example.BankingApp.service.OperationsService - Account not found
+2023-11-22 10:37:48.861 [http-nio-8080-exec-6] INFO  com.example.BankingApp.service.OperationsService - Deposit with 100.0€ was successful
+2023-11-22 10:58:58.790 [http-nio-8080-exec-7] INFO  com.example.BankingApp.service.OperationsService - Deposit with 100.0€ was successful
+2023-11-22 11:08:40.389 [http-nio-8080-exec-4] INFO  com.example.BankingApp.service.OperationsService - Deposit with 100.0€ was successful
+2023-11-22 11:08:54.281 [http-nio-8080-exec-7] WARN  com.example.BankingApp.service.OperationsService - Account with id 8 not found 
+2023-11-22 11:34:24.784 [main] INFO  com.example.BankingApp.service.OperationsService - Deposit with 500.0€ was successful
+2023-11-22 11:35:26.148 [main] INFO  com.example.BankingApp.service.OperationsService - Deposit with 500.0€ was successful
+2023-11-22 11:37:51.392 [main] INFO  com.example.BankingApp.service.OperationsService - Deposit with 500.0€ was successful
+2023-11-22 11:38:17.773 [main] INFO  com.example.BankingApp.service.OperationsService - Deposit with 500.0€ was successful
+2023-11-22 11:43:05.687 [main] INFO  com.example.BankingApp.service.OperationsService - Deposit with 500.0€ was successful
+2023-11-22 11:45:49.051 [main] WARN  com.example.BankingApp.service.OperationsService - Account with id 2 not found 
+2023-11-22 11:46:06.169 [main] WARN  com.example.BankingApp.service.OperationsService - Account with id 2 not found 
+2023-11-22 11:46:33.314 [main] WARN  com.example.BankingApp.service.OperationsService - Account with id 2 not found 
+2023-11-22 11:46:46.275 [main] WARN  com.example.BankingApp.service.OperationsService - Account with id 2 not found 
+2023-11-22 11:47:28.156 [main] INFO  com.example.BankingApp.service.OperationsService - Deposit with 500.0€ was successful
+2023-11-22 11:47:56.456 [main] INFO  com.example.BankingApp.service.OperationsService - Deposit with 500.0€ was successful
+2023-11-22 12:01:34.050 [main] INFO  com.example.BankingApp.service.OperationsService - Deposit with 500.0€ was successful
+2023-11-22 12:03:57.438 [main] INFO  com.example.BankingApp.service.OperationsService - Deposit with 500.0€ was successful
+2023-11-22 12:06:26.466 [http-nio-8080-exec-5] INFO  com.example.BankingApp.service.OperationsService - Deposit with 100.0€ was successful
+2023-11-22 12:06:51.597 [http-nio-8080-exec-9] INFO  com.example.BankingApp.service.OperationsService - Withdraw was successful
+2023-11-22 12:07:27.313 [http-nio-8080-exec-1] WARN  com.example.BankingApp.service.OperationsService - Tried to withdraw negative amount or amount which exceeding balance limits
+2023-11-22 12:07:29.441 [http-nio-8080-exec-4] WARN  com.example.BankingApp.service.OperationsService - Tried to withdraw negative amount or amount which exceeding balance limits
+2023-11-22 12:07:34.812 [http-nio-8080-exec-6] WARN  com.example.BankingApp.service.OperationsService - Tried to withdraw negative amount or amount which exceeding balance limits
+2023-11-22 12:07:39.409 [http-nio-8080-exec-8] WARN  com.example.BankingApp.service.OperationsService - Tried to withdraw negative amount or amount which exceeding balance limits
+2023-11-22 12:07:42.500 [http-nio-8080-exec-10] INFO  com.example.BankingApp.service.OperationsService - Deposit with 100.0€ was successful
+2023-11-22 12:07:47.627 [http-nio-8080-exec-2] WARN  com.example.BankingApp.service.OperationsService - Account not found
+2023-11-22 12:07:53.410 [http-nio-8080-exec-1] WARN  com.example.BankingApp.service.OperationsService - Account not found
+2023-11-22 12:07:56.262 [http-nio-8080-exec-3] WARN  com.example.BankingApp.service.OperationsService - Account not found
+2023-11-22 12:08:36.277 [http-nio-8080-exec-1] WARN  com.example.BankingApp.service.OperationsService - Account not found
+2023-11-22 12:08:40.180 [http-nio-8080-exec-3] WARN  com.example.BankingApp.service.OperationsService - Account not found
+2023-11-22 12:08:46.033 [http-nio-8080-exec-4] WARN  com.example.BankingApp.service.OperationsService - Account not found
+2023-11-22 12:53:24.155 [http-nio-8082-exec-1] INFO  com.example.BankingApp.service.OperationsService - Deposit with 100.0€ was successful
+2023-11-22 12:55:48.799 [http-nio-8082-exec-1] INFO  com.example.BankingApp.service.OperationsService - Deposit with 100.0€ was successful
+2023-11-22 12:55:51.321 [http-nio-8082-exec-3] INFO  com.example.BankingApp.service.OperationsService - Deposit with 100.0€ was successful
+2023-11-22 12:55:52.619 [http-nio-8082-exec-4] INFO  com.example.BankingApp.service.OperationsService - Deposit with 100.0€ was successful
+2023-11-22 14:56:34.757 [http-nio-8082-exec-1] INFO  com.example.BankingApp.service.OperationsService - Deposit with 100.0€ was successful
+2023-11-22 14:56:44.420 [http-nio-8082-exec-3] WARN  com.example.BankingApp.service.OperationsService - Account not found
+2023-11-22 15:03:59.194 [http-nio-8082-exec-1] INFO  com.example.BankingApp.service.OperationsService - Deposit with 100.0€ was successful
+2023-11-22 15:04:01.565 [http-nio-8082-exec-3] INFO  com.example.BankingApp.service.OperationsService - Deposit with 100.0€ was successful
+2023-11-22 15:05:27.018 [http-nio-8082-exec-1] INFO  com.example.BankingApp.service.OperationsService - Deposit with 100.0€ was successful
+2023-11-22 15:05:38.051 [http-nio-8082-exec-3] WARN  com.example.BankingApp.service.OperationsService - Account not found
+2023-11-22 15:05:49.938 [http-nio-8082-exec-4] WARN  com.example.BankingApp.service.OperationsService - Account not found
+2023-11-22 15:05:54.988 [http-nio-8082-exec-5] WARN  com.example.BankingApp.service.OperationsService - Tried to deposit negative amount
+2023-11-22 15:05:58.612 [http-nio-8082-exec-6] WARN  com.example.BankingApp.service.OperationsService - Account not found
+2023-11-22 15:06:06.196 [http-nio-8082-exec-8] INFO  com.example.BankingApp.service.OperationsService - Deposit with 0.0€ was successful
+2023-11-22 15:06:43.565 [http-nio-8082-exec-2] WARN  com.example.BankingApp.service.OperationsService - Tried to deposit negative amount
+2023-11-22 15:54:20.510 [http-nio-8082-exec-2] INFO  com.example.BankingApp.service.OperationsService - Deposit with 50.0€ was successful
+2023-11-22 15:54:51.365 [http-nio-8082-exec-3] INFO  com.example.BankingApp.service.OperationsService - Deposit with 500.0€ was successful
+2023-11-22 15:58:25.478 [http-nio-8082-exec-5] INFO  com.example.BankingApp.service.OperationsService - Deposit with 500.0€ was successful
+2023-11-22 16:53:28.088 [http-nio-8080-exec-5] INFO  com.example.BankingApp.service.OperationsService - Deposit with 500.0€ was successful
+2023-11-22 17:27:24.264 [http-nio-8080-exec-4] INFO  com.example.BankingApp.service.OperationsService - Deposit with 500.0€ was successful
+2023-11-22 17:27:32.062 [http-nio-8080-exec-1] INFO  com.example.BankingApp.service.OperationsService - Deposit with 500.0€ was successful
+2023-11-22 17:29:23.052 [http-nio-8080-exec-1] INFO  com.example.BankingApp.service.OperationsService - Deposit with 500.0€ was successful
+2023-11-22 17:29:24.003 [http-nio-8080-exec-3] INFO  com.example.BankingApp.service.OperationsService - Deposit with 500.0€ was successful
+2023-11-22 17:29:24.812 [http-nio-8080-exec-5] INFO  com.example.BankingApp.service.OperationsService - Deposit with 500.0€ was successful
+2023-11-22 17:30:36.456 [http-nio-8080-exec-8] INFO  com.example.BankingApp.service.OperationsService - Deposit with 500.0€ was successful
+2023-11-23 11:16:55.029 [http-nio-8080-exec-10] INFO  com.example.BankingApp.service.OperationsService - Deposit with 500.0€ was successful
+2023-11-23 11:17:02.633 [http-nio-8080-exec-7] INFO  com.example.BankingApp.service.OperationsService - Deposit with 500.0€ was successful
+2023-11-23 11:19:51.701 [http-nio-1111-exec-9] INFO  com.example.BankingApp.service.OperationsService - Deposit with 500.0€ was successful
+2023-11-23 11:23:49.121 [http-nio-1111-exec-2] INFO  com.example.BankingApp.service.OperationsService - Deposit with 500.0€ was successful
+2023-11-23 11:27:22.808 [http-nio-1111-exec-4] INFO  com.example.BankingApp.service.OperationsService - Deposit with 500.0€ was successful
+2023-11-23 11:27:30.247 [http-nio-1111-exec-1] INFO  com.example.BankingApp.service.OperationsService - Deposit with 500.0€ was successful
+2023-11-23 11:30:58.013 [http-nio-1111-exec-2] INFO  com.example.BankingApp.service.OperationsService - Deposit with 500.0€ was successful
+2023-11-23 15:00:28.032 [http-nio-8082-exec-1] WARN  com.example.BankingApp.service.OperationsService - Account with id 8 not found 
+2023-11-23 15:02:53.232 [http-nio-8082-exec-8] INFO  com.example.BankingApp.service.OperationsService - Deposit with 500.0€ was successful
+2023-11-23 15:07:11.457 [http-nio-8082-exec-2] INFO  com.example.BankingApp.service.OperationsService - Deposit with 500.0€ was successful
+2023-11-23 15:07:18.003 [http-nio-8082-exec-3] INFO  com.example.BankingApp.service.OperationsService - Deposit with 8.0€ was successful
+2023-11-23 15:07:22.673 [http-nio-8082-exec-4] WARN  com.example.BankingApp.service.OperationsService - Account not found
+2023-11-23 15:07:31.236 [http-nio-8082-exec-5] WARN  com.example.BankingApp.service.OperationsService - Tried to deposit negative amount
